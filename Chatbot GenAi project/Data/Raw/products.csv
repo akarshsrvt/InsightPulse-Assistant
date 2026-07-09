@@ -1,0 +1,41 @@
+product_id,product_name,category,base_price,cost_price,stock_quantity,supplier,rating,reviews_count,launch_date
+PROD001,Wireless Earbuds,Electronics,1299,698.59,1256,TechVista Pvt,4.4,3750,2022-07-14
+PROD002,Smart Watch,Electronics,4999,3189.01,605,TechVista Pvt,4.4,2101,2021-11-19
+PROD003,Bluetooth Speaker,Electronics,2499,1576.16,221,TechVista Pvt,3.6,2261,2021-02-02
+PROD004,Power Bank,Electronics,999,523.05,1590,TechVista Pvt,4.7,7982,2020-03-07
+PROD005,USB Hub,Electronics,799,379.94,1085,TechVista Pvt,4.0,2676,2021-11-25
+PROD006,Cotton T-Shirt,Clothing,499,323.71,635,FashionHub Ltd,3.3,177,2021-08-02
+PROD007,Denim Jeans,Clothing,1499,915.99,1997,FashionHub Ltd,4.5,4939,2022-09-22
+PROD008,Formal Shirt,Clothing,899,498.01,733,FashionHub Ltd,4.0,5866,2020-01-10
+PROD009,Winter Jacket,Clothing,2999,1692.23,1517,FashionHub Ltd,3.9,5452,2022-03-10
+PROD010,Sports Shorts,Clothing,699,394.56,1734,FashionHub Ltd,4.2,6117,2021-01-18
+PROD011,Air Fryer,Home & Kitchen,3999,2229.43,1968,HomeCore Co,3.5,5278,2020-03-06
+PROD012,Mixer Grinder,Home & Kitchen,2299,1448.19,1241,HomeCore Co,4.1,390,2022-09-24
+PROD013,Non-stick Pan,Home & Kitchen,999,636.52,1989,HomeCore Co,4.2,1548,2020-02-03
+PROD014,Coffee Maker,Home & Kitchen,1899,1198.23,1230,HomeCore Co,4.1,1971,2021-05-13
+PROD015,Water Purifier,Home & Kitchen,8999,5632.9,271,HomeCore Co,4.7,1600,2022-04-07
+PROD016,Python Programming,Books,599,270.2,1572,PaperWorld,3.5,5043,2021-11-15
+PROD017,Data Science Handbook,Books,799,473.88,1497,PaperWorld,3.8,6401,2022-03-20
+PROD018,Business Analytics,Books,649,405.6,1946,PaperWorld,3.7,5711,2021-01-30
+PROD019,AI Fundamentals,Books,899,555.52,346,PaperWorld,4.8,7547,2021-11-04
+PROD020,ML with Python,Books,749,382.76,832,PaperWorld,4.0,4329,2022-12-02
+PROD021,Yoga Mat,Sports,699,384.57,1188,FitLife Supplies,4.6,6804,2020-01-24
+PROD022,Dumbbells Set,Sports,1999,1031.98,1031,FitLife Supplies,3.7,110,2020-02-28
+PROD023,Resistance Bands,Sports,499,323.82,1556,FitLife Supplies,3.5,2538,2021-03-28
+PROD024,Skipping Rope,Sports,299,186.31,242,FitLife Supplies,4.8,7132,2020-12-25
+PROD025,Sports Bottle,Sports,399,194.91,1080,FitLife Supplies,4.3,542,2020-09-08
+PROD026,Face Serum,Beauty,849,504.39,1823,GlowMart,4.8,5456,2021-07-12
+PROD027,Sunscreen SPF50,Beauty,499,277.99,1824,GlowMart,3.7,310,2022-04-05
+PROD028,Hair Mask,Beauty,599,319.78,1056,GlowMart,3.6,5678,2021-11-20
+PROD029,Vitamin C Cream,Beauty,749,406.77,1773,GlowMart,4.8,1490,2020-11-05
+PROD030,Lip Balm Pack,Beauty,249,118.88,1738,GlowMart,4.7,6577,2020-04-07
+PROD031,LEGO Set,Toys,1499,676.2,1922,KidZone Imports,3.5,2254,2022-10-12
+PROD032,Remote Car,Toys,899,446.07,1362,KidZone Imports,4.8,5700,2020-06-21
+PROD033,Board Game,Toys,699,432.72,1805,KidZone Imports,3.5,4428,2020-02-04
+PROD034,Puzzle Set,Toys,499,278.19,71,KidZone Imports,4.2,3400,2021-07-22
+PROD035,Art Kit,Toys,599,367.9,1197,KidZone Imports,4.8,3016,2021-10-30
+PROD036,Organic Oats,Grocery,299,160.79,1251,NaturalBites,3.5,6439,2020-01-16
+PROD037,Green Tea Box,Grocery,399,236.02,1135,NaturalBites,3.4,1098,2021-09-05
+PROD038,Mixed Nuts,Grocery,599,363.75,1263,NaturalBites,3.4,373,2022-02-24
+PROD039,Protein Bar Pack,Grocery,799,441.33,700,NaturalBites,4.3,4030,2020-04-22
+PROD040,Honey Jar,Grocery,449,254.02,884,NaturalBites,3.6,6683,2022-02-21
